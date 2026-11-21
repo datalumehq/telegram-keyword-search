@@ -117,6 +117,8 @@ The same features are available to AI agents through the MCP server below (`star
 
 ## Use it as an MCP server
 
+[![Telegram Keyword Search MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/datalumehq/telegram-keyword-search/badges/score.svg)](https://glama.ai/mcp/servers/datalumehq/telegram-keyword-search)
+
 `mcp_server.py` exposes three tools to any MCP client (Claude Desktop, Claude Code, Cursor, VS Code). Requires Python 3.10+.
 
 | Tool | Cost | What it returns |
